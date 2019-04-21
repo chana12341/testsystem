@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<midcu>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.midcu.midcu.DemoApplication",
+            "projectName": "midcu",
+            "args": ""
+        }
+    ]
+}
